@@ -12,7 +12,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "chai": "^4.1.0",
     "draft-js": "^0.10.1",
-    "draftjs-to-html": "^0.7.3",
+    "draftjs-to-html": "https://github.com/brandonmlee/draftjs-to-html/tarball/master",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-draft-wysiwyg": "^1.10.7",
